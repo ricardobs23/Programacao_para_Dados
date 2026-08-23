@@ -6,6 +6,7 @@ Desenvolver um módulo em Python reutilizável, modular e orientado a objetos, c
 https://github.com/ricardobs23/Programacao_para_Dados
 
 🚀 Como Executar o Projeto
+
 Pré-requisitos
 Python 3.8 ou superior instalado.
 
