@@ -2,13 +2,16 @@
 
 Desenvolver um módulo em Python reutilizável, modular e orientado a objetos, capaz de processar dados em lote em formato CSV **sem o uso de bibliotecas de terceiros** (como `pandas`, `numpy` ou `matplotlib`), garantindo alta qualidade técnica, legibilidade e manutenibilidade.
 
-## 🚀 Repositório github
-https://github.com/ricardobs23/Programacao_para_Dados
-
 🚀 Como Executar o Projeto
 
 Pré-requisitos
 Python 3.8 ou superior instalado.
+🎯 Arquivo de dados na pasra dados com nome steam_games.csv.
+
+
+## 🚀 Repositório github
+https://github.com/ricardobs23/Programacao_para_Dados
+
 
 ## 🚀 Para processar os dados completos da Steam e visualizar os discursos analíticos gerados no console:
 
