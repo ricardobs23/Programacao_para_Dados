@@ -1,6 +1,9 @@
 # Pastas que devem ser ignoradas pelo Git
 dados/
 
+Extensoes igonoradas pelo git
+*.pdf
+
 # Cache e arquivos compilados do Python
 __pycache__/
 *.py[cod]
