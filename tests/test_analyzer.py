@@ -1,6 +1,7 @@
 import sys
 import os
 
+#Essa linha serve apenas para adicionar a pasta raiz ao caminho do Python quando o script é executado como um arquivo avulso.
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from steam_analyzer import SteamAnalyzer
