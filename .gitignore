@@ -1,3 +1,44 @@
+# Pastas que devem ser ignoradas pelo Git
 dados/
 
+# Cache e arquivos compilados do Python
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Dados e armazenamento local
+dados/
+*.sqlite3
+*.db
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ferramentas de testes, cobertura e análise
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Distribuição e pacotes (build)
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Variaveis de ambiente e credenciais
+.env
+.env.local
