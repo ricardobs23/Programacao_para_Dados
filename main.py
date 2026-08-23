@@ -2,7 +2,7 @@ import os
 from steam_analyzer import SteamAnalyzer, SteamDataError
 
 def main():
-    caminho_dataset = os.path.join("dados", "dataset_completo.csv")
+    caminho_dataset = os.path.join("dados", "steam_games.csv")
     
     try:
         print("Iniciando análise do dataset da Steam...")
